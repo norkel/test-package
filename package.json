@@ -1,0 +1,20 @@
+{
+  "name": "com.norkel.unity-test-package",
+  "version": "1.0.0",
+  "displayName": "Unity Test Package",
+  "description": "This is a test package",
+  "unity": "2019.4",
+  "unityRelease": "15f1",
+  "dependencies": {
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Norm Kelley",
+    "email": "norkel@msn.com",
+    "url": "https://www.linkedin.com/in/normkelley/"
+  }
+}
